@@ -14,7 +14,6 @@ python train.py
 
 ### Generated Samples
 ![Sample](assets/asamyukta_result_final.png)
-![Sample](assets/asamyukta_result_final_1.png)
 
 ### Comparative Evaluation
 ![Sample](assets/asamyukta_result_Comparative.png)
